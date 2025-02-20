@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@supabase/supabase-js": "https://esm.sh/@supabase/supabase-js@2.39.7",
+    "std/": "https://deno.land/std@0.204.0/",
+    "chrono-node": "https://esm.sh/chrono-node@2.7.5",
+    "date-fns": "https://esm.sh/date-fns@3.3.1",
+    "zod": "https://esm.sh/zod@3.22.4"
+  }
+}
